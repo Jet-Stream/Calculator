@@ -56,3 +56,44 @@ margin: 0 auto;
     width: 750px;
     margin: 10px;
 }
+#calcDiv1{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 1px solid greenyellow;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+#operatorDiv{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 40px;
+    height: 40px;
+    border: 1px solid orchid;
+    margin: 10px;
+}
+#calcDiv2{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 1px solid indigo;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+#resultDiv{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 4px solid gold;
+    width: 400px;
+    height: 40px;
+    margin: 6px;
+
+}
